@@ -29,4 +29,4 @@ _Identical words cannot be added_
 
 In order to run any of the above application download CodeBlock::IDE from the [link](http://www.codeblocks.org/downloads).
 
-Sample data has already been inserted in the both the project in order to start fresh delete \*_.dll_ files from both the project.
+Sample data has already been inserted in the both the project in order to start fresh delete contact.dll and thesaures.dll files from both the projects.
